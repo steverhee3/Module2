@@ -1,4 +1,4 @@
-
+<style>
 /********** Base styles **********/
 * {
   box-sizing: border-box;
@@ -279,4 +279,5 @@ div#container-fluid {
 div {
     background-color: grey;
 }
+</style>
 
